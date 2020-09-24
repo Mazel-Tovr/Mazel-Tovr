@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<img aling="left" src ="https://github-readme-stats.vercel.app/api?username=Mazel-tovr&count_private=true&show_icons=true&theme=radical" />
+<img aling="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazel-tovr&langs_count=5" />
+<!--<img aling="left" src ="https://github-readme-stats.vercel.app/api/wakatime?username=Mazel-Tovr" />
+-->
+
 
 <!--
 **Mazel-Tovr/Mazel-Tovr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

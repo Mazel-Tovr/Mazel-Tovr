@@ -1,4 +1,4 @@
-<div><span aling="centre">⚡ Fun fact:</span> <img aling="left"  width="189" height="200" src ="https://sun9-20.userapi.com/VpcnGI_igS1PldGWmktCH8osQ9AJXTm4y-Q1cQ/EV7iXx53KKE.jpg" /></div>
+<div><span>⚡ Fun fact: </span> <img  width="189" height="200" src ="https://sun9-20.userapi.com/VpcnGI_igS1PldGWmktCH8osQ9AJXTm4y-Q1cQ/EV7iXx53KKE.jpg" /></div>
 <br>
 <img aling="left" src ="https://github-readme-stats.vercel.app/api?username=Mazel-tovr&count_private=true&show_icons=true&theme=radical" />
 <img aling="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazel-tovr&layout=compact" />

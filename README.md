@@ -4,6 +4,11 @@
 <img  width="189" height="200" src ="https://sun9-20.userapi.com/VpcnGI_igS1PldGWmktCH8osQ9AJXTm4y-Q1cQ/EV7iXx53KKE.jpg" />
 <br>
 -->
+⚡ Fun fact:
+<br>
+<img  width="189" height="200" src ="https://sun9-26.userapi.com/7dUjTxx4zBIv0Cbt9e6Mj228d-IHIekpaprIPw/SPKnvf92EVY.jpg" />
+<br>
+
 <img aling="left" src ="https://github-readme-stats.vercel.app/api?username=Mazel-tovr&count_private=true&show_icons=true&theme=radical" />
 <br>
 <img aling="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazel-tovr&layout=compact" />

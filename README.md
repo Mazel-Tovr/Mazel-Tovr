@@ -21,11 +21,12 @@
 <br>
 <img  width="300" height="210" src ="https://pbs.twimg.com/media/EIcLIT_WwAIvuup.jpg:large" />
 <br>
--->
 <img  width="300" height="300" src ="https://sun9-7.userapi.com/impf/c851420/v851420853/59182/Qq_dQ9-pNUs.jpg?size=850x1080&quality=96&sign=b60696183e6ba5b67bde483a813886d1&type=album" />
 <br>
-
-
+-->
+<br>
+<img  width="400" height="150" src ="https://sun9-58.userapi.com/impg/BNm22ZYWJ6BSF5z15NQsHhc7HLHleOER8_vZrQ/ldmYQpZ6J5A.jpg?size=1080x376&quality=96&sign=0663c52b177bde9f639c7043d94e6918&type=album" />
+<br>
 <img aling="left" src ="https://github-readme-stats.vercel.app/api?username=Mazel-tovr&count_private=true&show_icons=true&theme=radical" />
 <br>
 <img aling="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazel-tovr&layout=compact" />
